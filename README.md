@@ -1,5 +1,7 @@
-# v1.0
-Simple Batch (CMD) implementation.
+# NVIDIA Master Miner v2.0.0
 
-# v1.1 (IN PROGRESS)
-Developed in C. In progress.
+No new features incoming, just basic script modification (algorithm change, different settings test, etc.)
+
+# NVIDIA Master Miner - Ultimate Edition v0.1.0 alpha build 1
+
+Currently under implementation, started on 05/01/2022 [dd/mm/aaaa]
