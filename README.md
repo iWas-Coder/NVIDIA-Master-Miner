@@ -1,4 +1,4 @@
-# NVIDIA Master Miner v2.0.0
+# NVIDIA Master Miner - Basic Edition v2.0.0
 
 No new features incoming, just basic script modification (algorithm change, different settings test, etc.)
 
