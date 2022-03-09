@@ -1,7 +1,3 @@
-# NVIDIA Master Miner - Basic Edition v2.0.0
+# NVIDIA Master Miner - v2.x.x (latest)
 
-No new features incoming, just basic script modification (algorithm change, different settings test, etc.)
-
-# NVIDIA Master Miner - Ultimate Edition v0.1.0 alpha build 1
-
-Currently under implementation, started on 05/01/2022 [dd/mm/aaaa]
+Latest version of the script. Everything works as expected.
