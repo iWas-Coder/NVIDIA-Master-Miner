@@ -32,7 +32,7 @@ if %O% geq 2 goto multiple_instances_error
 	
 	echo.
 	echo ...............................................
-	echo PRESS 1, 2, 3, 4 OR 5 to select your miner, or 6 to EXIT.
+	echo PRESS 1, 2, 3, 4, 5, 6 OR 7 to select your miner, or 8 to EXIT.
 	echo ...............................................
 	echo.
 	echo 1 - Nicehash ETH NVIDIA Miner
@@ -45,7 +45,7 @@ if %O% geq 2 goto multiple_instances_error
 	echo 8 - EXIT
 	echo.
 
-	set /P M=Type 1,2,3,4 or 5 then press ENTER: 
+	set /P M=Type 1, 2, 3, 4, 5, 6, 7 or 8 then press ENTER: 
 	if %M%==1 goto nicehash_eth
 	if %M%==2 goto pool_eth
 	if %M%==3 goto pool_etc
